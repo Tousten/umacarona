@@ -8,16 +8,19 @@
 <body>
 
 	<form>
-  <div class="form-row">
-    <div class="col-2">
-      <input type="text" class="form-control" placeholder="Origem">
-    </div>
-    <div class="col">
-      <input type="text" class="form-control" placeholder="Destino">
-    </div>
-    
-  </div>
-</form>
+	
+		<div class="mx-auto" style="width: 200px;">
+			<div class="form-row">
+				<div class="col-2">
+					<input type="text" class="form-control" placeholder="Origem">
+				</div>
+				<div class="col">
+					<input type="text" class="form-control" placeholder="Destino">
+				</div>
+			</div>
+		</div>
+
+	</form>
 
 
 </body>

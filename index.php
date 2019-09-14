@@ -9,7 +9,7 @@
 
 	<form>
 	
-		<div class="mx-auto" style="width: 200px;">
+		<div class="mx-auto w-auto">
 			<div class="form-row">
 				<div class="col-2">
 					<input type="text" class="form-control" placeholder="Origem">

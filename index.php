@@ -6,8 +6,6 @@
 	<title>Totalmente Seguro e Funcional - Site de Caronas</title>
 </head>
 <body>
-  
-    <div class="mx-auto w-auto">
 	<div class=jumbotron text-center";>
 <form >
   <div class="form-row" >
@@ -18,13 +16,11 @@
       <input type="text" class="form-control" placeholder="Destino">
     </div>
     <div class="col-2">
-      <input type="text" class="form-control"   placeholder="Saida (opcional)" >
-                
-            </div>
+      <input type="text" class="form-control"   placeholder="Saida (opcional)" >       
+       </div>
   </div>
 </form>
 </div>	
-	</div>
-  </div>
+</div>
 </body>
 </html>
